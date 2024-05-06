@@ -1,0 +1,35 @@
+_repo: Kokki-kirja-b-elikka-Neuvoja-tarpeellisempien-Joka-aikaisten-Pitoruokien-Laitokseen_73445
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Granlund, J. F. (Johan Fredrik)
+    aliases:
+    - Granlund, Johan Fredrik
+    - Granlund, Juhana Fredrik
+    birthdate: 1809
+    deathdate: 1874
+    gutenberg_agent_id: '56886'
+    url: http://www.gutenberg.org/2009/agents/56886
+    wikipedia: https://fi.wikipedia.org/wiki/J._F._Granlund
+description: ''
+gutenberg_issued: '2024-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73445'
+language: fi
+pgterms:marc905: 20240412021518granlund
+pgterms:marc906: '1849'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aTurku :$bJ. S. Frenckell ja Poika, $c1849.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking'
+- !lcsh 'Cookbooks'
+- !lcc 'TX'
+- GITenberg
+title: 'Kokki-kirja : $b elikkä Neuvoja tarpeellisempien Joka-aikaisten Pitoruokien
+  Laitokseen'
+url: http://www.gutenberg.org/ebooks/73445
